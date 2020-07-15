@@ -3,4 +3,6 @@
 
 
 
-
+lunch_menu.each do |lunch_item
+  lunch_item << "!"
+end
